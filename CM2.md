@@ -35,7 +35,7 @@ Il y a des caractéristiques déterminantes pour qu'une oeuvre soit protégée p
 
 > Originalité : L'empreinte de la personnalité de l'auteur. Définition française d'Henri Desbois. 
 
-Cette définition est opposée à la nouveauté. Originalité est une notion subjective, la nouveauté est une notion objective.
+>> Cette définition est opposée à la nouveauté. Originalité est une notion SUBJECTIVE, la nouveauté est une notion objective.
 En droit d'auteur, on ne parle pas de nouveauté mais d'originalité. Car en partant du même matériau, on peut arriver à des oeuvres différentes.
 Doctrine propose des définitions et les juges l'accueillent ou non.
 Issu de l'originalité des titres
@@ -63,12 +63,55 @@ Lire l'arrêt , le reformuler et répondre aux questions.
 
 Question 1 : Quelle était l'objet dont la protection était contestée ?
 Un ensemble de programmes informatiques.
+
 Question 2 : Les juges du fond ont-ils accepté ou refusé la protection de cet objet par le droit d'auteur ?
 Ils ont accepté cette protection.
+
 Question 3 :  Comment la Cour de d'appel a-t-elle justifié sa décision ?
 Elle a justifié sa décision en disant que les programmes informatiques ne sont pas justes des moyens techniques mais des oeuvres de l'esprit car ils sont le fruit d'un choix d'expression de l'auteur en comparant avec la traduction.
+
 Question 4 : Quelles sont les deux étapes du raisonnement de la Cour de cassation ?
 Dans un premier temps la cour de Cassation a expliqué que le caractère scientifique d'un programme informatique n'empêche pas qu'il soit protégé par le droit d'auteur. Dans un second temps, elle a expliqué que l'originalité du programme informatique a été reconnue par la cour d'appel. Et donc elle a validé la décision de la cour d'appel.
+
 Question 5 : Quelle est la condition de protection qui est en cause dans le dernier paragraphe de l'arrêt ?
 La condition de protection en cause est l'originalité.
 Question 6 : Quels sont les éléments de définition de l'originalité retenus par la Cour de cassation ?
+
+Correction :
+
+Première instance -> appel -> cassation
+Une partie attaque la décision de la cour d'appel " arrêt attaqué". "confirmatif" signifiant que la cour d'appel est d'accord avec première instance.
+
+Faits :
+Un salarié refuse de donner une copie de ses logiciels, l'entreprise le licencie. Le salarié attaque l'entreprise pour "licenciement abusif".
+
+Question 1 :
+Objet de la protection contestée : ensemble de programmes informatiques/ logiciels.
+
+Question 2 :
+Les juges du fond ont accepté la protection de cet objet par le droit d'auteur.
+
+Question 3 :
+La Cour d'appel a justifié sa décision en disant que les programmes informatiques ne sont pas que des moyens techniques mais des oeuvres de l'esprit car ils sont le fruit d'un choix d'expression de l'auteur. Elle a comparé cela à une traduction.
+
+Question 4 :
+Deux étapes du raisonnement de la Cour de cassation :
+1. La cour de cassation a expliqué que le caractère scientifique d'un programme informatique n'empêche pas qu'il soit protégé par le droit d'auteur.
+> Et que c'est une création car il y a une composition du logiciel mis en forme par des instructions rédigées.
+2. L'originalité
+
+Question 5 :
+La condition de protection en cause dans le dernier paragraphe de l'arrêt est l'originalité.
+
+Question 6 :
+N'oubliez pas de reprendre les mots de l'arrêt pour répondre à la question et justifier votre analyse pour le prof.
+Les éléments de définition de l'originalité retenus par la Cour de cassation sont :
+- Originalité : L'empreinte de la personnalité de l'auteur. "effort personnalisé" "Porte la marque de son apport intellectuel"  donc originalité reconnue.
+
+Question 7 :
+Définition de Desbois : "L'empreinte de la personnalité de l'auteur"  apport intellectuel objectif (Par rapport à tous) tandis que l'empreinte est jugée par rapport à l'auteur par sa subjectivité.
+
+Question 8 :
+Quel est l'enjeu de cette décision ?
+L'enjeu de cette décision est de savoir si les programmes informatiques sont protégés par le droit d'auteur. Si oui, cela signifie que les programmes informatiques sont des oeuvres de l'esprit et donc protégés par le droit d'auteur.
+Permet alors d'amener des définitions plus larges de l'originalité. (Objectif et subjectif) Comme avec les choix libres et créatifs de l'auteur.(Arrêt Painer)
