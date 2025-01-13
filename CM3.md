@@ -92,3 +92,10 @@ Cette inventivité s'apprécie au moment du dépôt de la demande de brevet. Pou
 C'est le cas lorsque l'objet peut être fabriqué et utilisé dans tout domaine de l'industrie y compris l'agriculture.
 
 Résumé : Article L611-10 CPI : "Est brevetable une invention nouvelle impliquant une activité inventive et susceptible d'application industrielle."
+
+Correction :
+
+Quel est l'objet protégé par le droit d'auteur ? Oeuvre de l'esprit: une création mise en forme.
+Conditionné par l'empreinte de la personnalité de l'auteur = l'originalité.
+Quel est l'objet protégé par le droit des brevets ? Invention: solution technique à un pb technique.
+Trois conditions de brevetabilité: nouveauté, activité inventive, application industrielle.
