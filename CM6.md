@@ -12,7 +12,7 @@ La protection des logiciels par le droit d'auteur est un droit spécial.
 
 Protection a différentes sources juridiques :
 - Droit d'auteurs : 3 juilllet 1985 et du 10 mai 1994 (CPI à la suite de la directive europeenne)
-- Directive européenne 91/50 du 14 mai 1991 -> remplacée par la directive 2009/24/CE du 23 avril 2009
+- Directive européenne 91/250 du 14 mai 1991 -> remplacée par la directive 2009/24/CE du 23 avril 2009
 - Brevet : 2 janvier 1968 (France)-> changée en 13 juillet 1978 
 - 5 octobre 1973 (UE Convention sur le brevet européen)
 
