@@ -58,6 +58,9 @@ Tribunal compétent pour le droit d'auteur : Tribunal judiciaire de Strasbourg.
 
 L'outil de valorisation des logiciels est le contrat. Pour les logiciels, il y a deux types de contrats :
 
-- Contrat de licence : Cession des droits. Autorisation d'utiliser le logiciel contre de financement.
+- Contrat de licence : Cession des droits. Autorisation d'utiliser le logiciel contre de financement.  
+Open source : Licence libre, gratuit, mais avec des conditions.  
+Le contrat permet de permettre l'utilisation du logiciel mais en gardant le contrôle sur l'utilisation.
+
 - Contrat de cession de droit d'auteur : Cession des droits patrimoniaux. Titulaire originaires cède ses droits à un tiers et ne maitrise plus son oeuvre.
 
